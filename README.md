@@ -1,2 +1,3 @@
 # Bachelor
-Code and Results produced in the Bachelore Thesis "Analyzing Iceberg Movement and Wave Generation using Fast Sampling SWOT Satellite Data"
+Code and Results produced in the Bachelore Thesis "Analyzing Iceberg Movement and Wave Generation using Fast Sampling SWOT Satellite Data" by Constance Hjort & Mathilde Meidahl Lundberg. 
+
