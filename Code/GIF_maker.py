@@ -1,6 +1,6 @@
 #%%  MSSH
 
-import swot_ssh_utils as swot
+import swot_ssh_utils as swot  # Use of the file found at: https://github.com/SWOT-community/SWOT-OpenToolkit/blob/main/src/swot_ssh_utils.py
 import xarray as xr
 import numpy as np
 import matplotlib.pyplot as plt
@@ -15,8 +15,9 @@ import cartopy.feature as cfeature
 from PIL import Image
 import imageio
 import sys
-# skud ud: https://github.com/SWOT-community/SWOT-OpenToolkit/blob/main/src/swot_ssh_utils.py
 from scipy import ndimage
+
+
 
 directory_path = 'C:/Users/const/Documents/Bachelor/250m'
 
