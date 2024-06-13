@@ -20,9 +20,8 @@ from scipy.interpolate import griddata
 from xarray import open_dataset
 import numpy as np
 import xarray as xr
-# skud ud: https://github.com/SWOT-community/SWOT-OpenToolkit/blob/main/src/swot_ssh_utils.py
 
-#%PDS - Bjarkes functioner
+#The following functions are from Bjarke Nilssens Code: https://github.com/BjarkeN/Master-Thesis
 
 def powerSpectralDensity(ssh, sampling, unit="m", tapering_f = "boxcar", tapering=8):
     # Setup
