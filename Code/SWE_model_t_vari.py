@@ -143,6 +143,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import animation
 
+# The following code is build on the code: https://github.com/hongkangcarl/PDE-solver-shallow-water-equations/blob/main/swe.py
+
 # finite difference treatment of grad h = [h(x+âx) - h(x-âx)]/(2âx)
 def grad(h):
     grad_h=np.gradient(h, dx)
