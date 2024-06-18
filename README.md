@@ -12,7 +12,7 @@ In the folder GIFs four GIFs are found, produced in this thesis: <br><br>
 ## Code folder
 In the folder Code are the code produced in the thesis present. In the thesis the code from the SWOT-OpenToolkit GitHup reposatory is used and code from PDE-solver-shallow-water-equations GitHub reposatory by Carl Zhu is used.  <br> <br>
 *GIF_maker.py*: Code done to generate the given plots and GIFs of OST and SSHA  <br><br>
-*Iceberg_Code.py*: Code used to make iceberg movement analysis.  <br> <br>
+*Iceberg_Code.py*: Code used to make iceberg movement analysis and also include cross-section analysis.  <br> <br>
 *PDS_code.py*: Code used for the spacial power spectral density analysis.  <br><br>
 *SWE_model_t_vari.py*: Code used for the simulation and making of the GIFs.  <br><br>
 *pass_plots.py*: Plot illustrating the passes of 1-Day orbit.  <br><br>
